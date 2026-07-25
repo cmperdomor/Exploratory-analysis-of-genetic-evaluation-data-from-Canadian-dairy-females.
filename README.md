@@ -39,7 +39,7 @@ Animals with similar LPI values may still differ substantially in the informatio
 
 - `genetic_analysis_Code.ipynb` — the full analysis, step by step, in a Jupyter notebook.
 - `images/` — every chart from the notebook, saved as PNG.
-- `metodology.md` — every statistical method used and why.
+- `methodology.md` — every statistical method used and why.
 - `conclusion.md` — the full findings, discussion, and a confidence rating for each conclusion.
 
 ## What this analysis found
@@ -58,7 +58,7 @@ Full detail, regional breakdowns, and the "how confident should each of these be
 
 ## A quick heads-up before you read the numbers
 
-Each province's file is only its *top 400 animals by LPI* — the best-ranked tier, not an average farm. This is a selection-bias caveat that applies to every number below: statistics computed on a top-ranked subset (means, spreads, correlations) describe that elite tier, not each province's general cattle population, and provinces with larger underlying populations have a deeper pool to draw their top 400 from than provinces with smaller ones — something this dataset can't correct for. Full discussion in `metodologia_estadistica.md`, Section 14.
+Each province's file is only its *top 400 animals by LPI* — the best-ranked tier, not an average farm. This is a selection-bias caveat that applies to every number below: statistics computed on a top-ranked subset (means, spreads, correlations) describe that elite tier, not each province's general cattle population, and provinces with larger underlying populations have a deeper pool to draw their top 400 from than provinces with smaller ones — something this dataset can't correct for. Full discussion in `methodology.md`, Section 14.
 
 ## Things this analysis couldn't fully answer
 
