@@ -44,7 +44,7 @@ Animals with similar LPI values may still differ substantially in the informatio
 
 ## What this analysis found
 
-**Information sources differ sharply in how much confidence they support.** Pedigree alone yields the lowest average reliability (37.9% on protein); genomic testing alone already exceeds official phenotype-based records alone (81.0% vs. 56.2%); the two combined yield the highest reliability of any source (84.1%). Full breakdown in `conclusiones_generales.md`.
+**Information sources differ sharply in how much confidence they support.** Pedigree alone yields the lowest average reliability (37.9% ); genomic testing alone already exceeds official phenotype-based records alone (81.0% vs. 56.2%); the two combined yield the highest reliability of any source (84.1%). Full breakdown in `conclusiones_generales.md`.
 
 **That same pattern holds at the regional level.** Provinces with a higher share of genomically tested animals in their elite population tend to show higher average LPI — a measured association across all 10 provinces (r=0.73, p=0.016, confirmed stable under robustness checks), not a claim about which service causes what. It is not associated with greater consistency (r=0.01, not significant) — genomic representation predicts a higher average, not a more uniform one. This dataset can't determine *why* regions differ in this respect — nothing here speaks to producer cost, awareness, or access.
 
