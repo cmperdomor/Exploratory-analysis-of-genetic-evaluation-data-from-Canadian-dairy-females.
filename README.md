@@ -54,7 +54,7 @@ Animals with similar LPI values may still differ substantially in the informatio
 
 **Genomic testing's best-supported contribution is confidence, not magnitude.** The reliability gap between genomically tested and untested animals (Cohen's d up to 6.9) is far larger than the gap in the predicted values themselves (d up to 0.5), and reliability climbs further still when genomic testing is paired with official phenotype-based records, consistent with the integration theme running through this project.
 
-Full detail, regional breakdowns, and the "how confident should each of these be treated" table are in `conclusiones_generales.md`.
+Full detail, regional breakdowns, and the "how confident should each of these be treated" table are in `conclusions.md`.
 
 ## A quick heads-up before you read the numbers
 
