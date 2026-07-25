@@ -74,10 +74,11 @@ A natural next step would combine these genetic evaluations with herd-level prod
 
 ## How to run this yourself
 
-1. Get the provincial Excel files **and** the `diccionario_lactanet.xlsx` dictionary file from Lactanet, and put them all in a `data/raw/` folder next to the notebook.
+1. Get the provincial Excel files from Lactanet, and put them all in a `data/raw/` folder next to the notebook.
 2. Install the Python packages: `pip install -r requirements.txt`
-3. Open `analisis_guiado.ipynb` in Jupyter or VS Code.
+3. Open `genetic_analysis_code.ipynb` in Jupyter or VS Code.
 4. Run it top to bottom (Kernel → Restart & Run All).
+5. Keep in mind that Lactanet web site is in constant update, probably you will find new animals
 
 **Python version note:** built and tested on Python 3.12. Very new Python/pandas releases (e.g., Python 3.14 with pandas 3.x) can hit compatibility issues — if you run into unexplained errors, an older, more established Python version is worth ruling out first.
 
