@@ -12,6 +12,8 @@ Provincial genetic reports are usually read on their own, each describing one re
 
 An **Estimated Breeding Value (EBV)** is not a direct measurement — it's a statistical prediction of an animal's genetic merit, built from whatever information is available for it. **Reliability** reflects how much confidence to place in that prediction: how close it's likely to be to the animal's true genetic merit.
 
+An important characteristic of this dataset is that it represents a ranking rather than a fixed cohort. Each provincial dataset contains the top 400 females according to Lifetime Performance Index (LPI) at the time of each official genetic evaluation release. Consequently, high-ranking animals may appear in multiple consecutive releases if their LPI remains competitive. This persistence reflects the design of a top-ranked selection rather than incomplete data collection or missing animals. Individuals remain in the dataset until they are surpassed by newly evaluated animals with higher genetic merit.
+
 ## The conceptual framework
 
 ```
