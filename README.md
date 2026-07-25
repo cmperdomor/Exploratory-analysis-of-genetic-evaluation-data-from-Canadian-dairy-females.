@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Provincial genetic reports are usually read on their own, each describing one region's elite dairy population independently. This project combined the top 400 animals from all 10 provinces into a single dataset to ask a broader question: do regional differences in genetic merit go along with regional differences in the *information* supporting those evaluations? Provinces are the unit of observation here, not the subject of the study,the subject is how that information is assembled.
+Provincial genetic reports are usually read on their own, each describing one region's elite dairy population independently. This project combined the top 400 LPI animals from all 10 provinces into a single dataset to ask a broader question: do regional differences in genetic merit go along with regional differences in the *information* supporting those evaluations? Provinces are the unit of observation here, not the subject of the study,the subject is how that information is assembled.
 
 **Throughout this project, "information integration" means the combination of pedigree, genomic testing, and official phenotype-based records (production and classification) behind an animal's genetic evaluation.** Genomic testing is one piece of that combination, not the focus on its own.
 
