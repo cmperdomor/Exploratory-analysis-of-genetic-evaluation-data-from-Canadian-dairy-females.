@@ -35,10 +35,10 @@ Animals with similar LPI values may still differ substantially in the informatio
 
 ## What's in this repo
 
-- `analisis_guiado.ipynb` — the full analysis, step by step, in a Jupyter notebook.
+- `genetic_analysis_Code.ipynb` — the full analysis, step by step, in a Jupyter notebook.
 - `images/` — every chart from the notebook, saved as PNG.
-- `metodologia_estadistica.md` — every statistical method used and why.
-- `conclusiones_generales.md` — the full findings, discussion, and a confidence rating for each conclusion.
+- `metodology.md` — every statistical method used and why.
+- `conclusion.md` — the full findings, discussion, and a confidence rating for each conclusion.
 
 ## What this analysis found
 
