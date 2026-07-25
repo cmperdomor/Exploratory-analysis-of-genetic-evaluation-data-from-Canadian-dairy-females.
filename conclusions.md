@@ -2,7 +2,7 @@
 
 ## What this study asked
 
-Provincial genetic reports are usually read on their own, each describing one region's elite dairy population independently. This analysis combined the top 400 animals from all 10 Canadian provinces into a single dataset to ask a broader question: do regional differences in genetic merit go along with regional differences in the information behind those evaluations?
+Provincial genetic reports are usually read on their own, each describing one region's elite dairy population independently. This analysis combined the top 400 LPI animals from all 10 Canadian provinces into a single dataset to ask a broader question: do regional differences in genetic merit go along with regional differences in the information behind those evaluations?
 
 **"Information integration," used throughout this document, means the combination of pedigree, genomic testing, and official phenotype-based records (production and classification) behind an animal's genetic evaluation.** Genomic testing is one part of that combination - the results below treat it that way, as evidence for the broader integration pattern, not as the subject on its own.
 
