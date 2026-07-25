@@ -1,8 +1,7 @@
 # Statistical Methodology - Lactanet Genetics Analysis
 
 This document summarizes every statistical method used in this project, why
-it was chosen, and which Python library/function implements it. Use this to
-explain or defend the analysis (e.g., in a report or presentation).
+it was chosen, and which Python library/function implements it. 
 
 ---
 
